@@ -116,18 +116,7 @@ The following optimization techniques are implemented:
 - Databricks Jobs orchestration
 
 ---
+## Screenshot
 
-## 🔮 Future Enhancements
+<img width="1625" height="841" alt="image" src="https://github.com/user-attachments/assets/06e41b33-26d6-4088-afc2-054eb179b39b" />
 
-- Add data quality checks and validations
-- Implement incremental data loading
-- Add unit tests for transformations
-- Integrate monitoring and alerting
-- Schema enforcement and evolution
-
----
-
-## 👤 Author
-
-**Tamojit Das**  
-Data Engineer | PySpark | Databricks | Delta Lake
